@@ -17,14 +17,8 @@ This task will install all Setup modules.
 
 =pkg Setup::File::Symlink
 
-=pkg Setup::Multi
-
-=pkg Setup::Test
-
 =pkg Setup::Text::Snippet
 
 =pkg Setup::Unix::User
-
-=pkg Test::Setup
 
 =cut
