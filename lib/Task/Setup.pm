@@ -1,4 +1,4 @@
-package Task::Perinci;
+package Task::Setup;
 
 # VERSION
 
