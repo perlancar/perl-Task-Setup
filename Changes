@@ -2,14 +2,14 @@ Revision history for Task-Setup
 
 0.03    2012-08-23 (SHARYANTO)
 
-        No functional changes. Reupload (fix package name).
+        - No functional changes. Reupload (fix package name).
 
 
 0.02    2012-08-23 (SHARYANTO)
 
-        Remove Setup::Multi, Setup::Test, Test::Setup.
+        - Remove Setup::Multi, Setup::Test, Test::Setup.
 
 
 0.01    2012-03-29 (SHARYANTO)
 
-        First release.
+        - First release.
